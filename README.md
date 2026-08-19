@@ -85,7 +85,7 @@ suricata -r malicious_traffic.pcap -l . -S suricata.rules
   на лету на сетевом трафике (Suricata, real-time) — и почему вторая
   сигнатура почти всегда жёстче ограничена по производительности.
 
-Правила — в [`suricata.rules`](./suricata.rules), результат прогона — в `fast.log`.
+Правила — в [`my.rules`](./my.rules), результат прогона — в `fast.log`.
 
 ## Задание 3 — UBA: поведенческий анализ по ритму набора текста
 
