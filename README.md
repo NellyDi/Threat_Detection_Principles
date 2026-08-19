@@ -23,11 +23,15 @@
 
 ```
 .
-├── file1_rule.yar     # Задание 1 — YARA-правило для file1.bin
-├── file2_rule.yar     # Задание 1 — YARA-правило для file2.bin
-├── file3_rule.yar     # Задание 1 — YARA-правило для file3.bin
-├── suricata.rules     # Задание 2 — правила Suricata для malicious_traffic.pcap
-├── UBA.py             # Задание 3 — поведенческий анализ набора текста
+├── file1.bin               # Задание 1 — file1.bin
+├── file2.bin               # Задание 1 — file2.bin
+├── file3.bin               # Задание 1 — file3.bin
+├── file1_rule.yar          # Задание 1 — YARA-правило для file1.bin
+├── file2_rule.yar          # Задание 1 — YARA-правило для file2.bin
+├── file3_rule.yar          # Задание 1 — YARA-правило для file3.bin
+├── malicious_traffic.pcap  # Задание 2 — malicious_traffic.pcap
+├── suricata.rules          # Задание 2 — правила Suricata для malicious_traffic.pcap
+├── UBA.py                  # Задание 3 — поведенческий анализ набора текста
 └── README.md
 ```
 
